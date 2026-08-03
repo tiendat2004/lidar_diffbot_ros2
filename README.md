@@ -122,4 +122,5 @@ ros2 launch auto_mapper auto_mapper.launch.py map_path:=~/maps/my_map
 
 ## Acknowledgements
 
-- https://github.com/kaiaai/auto_mapper
+- https://github.com/kaiaai/auto_mapper0
+- link video dự án: https://youtu.be/oauRnWwvWOY
